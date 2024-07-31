@@ -38,3 +38,6 @@ To use this CLI tool, clone the repository and follow the setup instructions pro
 git clone https://github.com/JustinXHale/bulkprompting.git
 cd bulkprompting
 # Follow additional setup instructions in the repository
+
+## GIF
+![Example](july31-readme-gif.gif)
