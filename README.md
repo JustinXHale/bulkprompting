@@ -1,5 +1,8 @@
 # Bulk Prompting for Command Line Interfaces
 
+## GIF
+![Example](july31-readme-gif.gif)
+
 ## Problem Description
 
 Navigating in Command Line Interfaces (CLIs) often requires users to either use a series of flags or sequential prompts to complete their configuration, which is time-consuming and inefficient. For example, when creating ROSA Classic Clusters, a user must navigate 30 or more prompts to create a cluster, even when using default and recommended settings. This cumbersome method hampers productivity and the user's experience. There is a pressing need for a more user-friendly and efficient method for executing commands in the CLI environment to streamline setup processes and reduce complexity.
@@ -39,5 +42,4 @@ git clone https://github.com/JustinXHale/bulkprompting.git
 cd bulkprompting
 # Follow additional setup instructions in the repository
 
-## GIF
-![Example](july31-readme-gif.gif)
+
